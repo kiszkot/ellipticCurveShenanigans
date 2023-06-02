@@ -1,0 +1,7 @@
+# Directories
+/target
+
+# Files
+*.hpp
+*.cpp
+main
